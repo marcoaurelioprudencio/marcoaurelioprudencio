@@ -6,27 +6,26 @@ Estou em constante aprendizado, sempre buscando crescer, melhorar e contribuir c
 
 ---
 
-### 💡 Conhecimentos atuais
+## 💡 Conhecimentos específicos
 
-- 💻 **Programação**: Python • JavaScript • HTML • SQL
-- 🌐 **Redes e Infraestrutura**: TCP/IP • Segurança em Redes • Active Directory • Fortigate Firewall
-- 📊 **Análise de Dados**: Power BI • PostgreSQL
-- 📁 **Sistemas Operacionais**: Linux • Windows
-- 🧰 **Ferramentas**: Git • VS Code • GitHub
+- 🎯 **Programação**: Python • JavaScript • HTML • SQL  
+- 🌐 **Redes e Infraestrutura**: TCP/IP • Segurança em Redes • Active Directory • Fortigate Firewall  
+- 📊 **Análise de Dados**: Power BI  
+- 🖥️ **Sistemas Operacionais**: Linux • Windows  
+- 🧰 **Ferramentas**: Git • VS Code • GitHub  
 
 ---
 
-### 🧠 Tecnologias que conheço
+## 🧠 Tecnologias que conhecemos
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
