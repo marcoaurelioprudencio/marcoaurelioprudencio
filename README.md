@@ -1,38 +1,45 @@
-### Oieee, seja bem vindo(a)! 👋
+## 👋 Olá, seja bem-vindo(a)!
 
-Me chamo **Marco Aurélio**, sou estudante de **Engenharia de Software** e moro no Brasil 🇧🇷.
-
-- 💻 Desenvolvedor em formação
-- 🎓 Compartilhando meus projetos da faculdade
-- 🚀 Em busca de aprender, evoluir e colaborar com a comunidade
-- 🌱 Atualmente estudando: Python e JavaScript
+Sou o **Marco Aurélio** e estou estudando para me tornar um **profissional na área de tecnologia**.  
+Atualmente conheço e utilizo ferramentas de desenvolvimento, redes, segurança e análise de dados.  
+Estou em constante aprendizado, sempre buscando crescer, melhorar e contribuir com a comunidade!
 
 ---
 
-### Tools I know ✨
+### 💡 Conhecimentos atuais
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
+- 💻 **Programação**: Python • JavaScript • HTML • SQL
+- 🌐 **Redes e Infraestrutura**: TCP/IP • Segurança em Redes • Active Directory • Fortigate Firewall
+- 📊 **Análise de Dados**: Power BI • PostgreSQL
+- 📁 **Sistemas Operacionais**: Linux • Windows
+- 🧰 **Ferramentas**: Git • VS Code • GitHub
+
+---
+
+### 🧠 Tecnologias que conheço
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="250"/>
+### 📈 GitHub Stats
 
-### 📊 GitHub Stats
-
-![Marco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcoaurelioprudencio&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoaurelioprudencio&layout=compact&theme=tokyonight)
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcoaurelioprudencio&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoaurelioprudencio&layout=compact&theme=dracula)
 
 ---
 
-### 🔗 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoaurelioprudencio)
+### 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoaurelioprudencio/)](https://www.linkedin.com/in/marcoaurelioprudencio/)
 
 ---
+
+⭐ *Obrigado por visitar meu perfil! Em constante evolução!*
